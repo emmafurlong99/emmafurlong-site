@@ -5,7 +5,7 @@ export default function App() {
         <div className="mx-auto max-w-6xl px-6 py-6">
           <h1 className="text-3xl font-semibold">Emma Furlong</h1>
           <p className="mt-2 text-stone-600">
-            Mindset coaching, events, speaking, and brand collaborations.
+            Mindset coaching, events, speaking, collaborations, and community.
           </p>
         </div>
       </header>
