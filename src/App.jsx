@@ -128,7 +128,7 @@ export default function App() {
       <footer className="border-t border-stone-200 py-8 px-6">
         <div className="max-w-6xl mx-auto flex flex-wrap gap-6 text-stone-600">
           <a
-            href="https://www.instagram.com/FFLifestyle"
+            href="https:www.instagram.com/fflifestyle24"
             target="_blank"
             rel="noreferrer"
           >
@@ -143,7 +143,7 @@ export default function App() {
             TikTok
           </a>
 
-          <a href="mailto:emmafurlonghome@gmail.com">Email</a>
+          <a href="mailto:fflifestyle2024@gmail.com">Email</a>
         </div>
       </footer>
     </div>
