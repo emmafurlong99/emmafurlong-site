@@ -3,7 +3,6 @@ import React from "react";
 export default function App() {
   return (
     <div className="min-h-screen bg-[#F8F5F2] text-stone-900">
-      {/* HERO */}
       <section className="px-6 py-24 max-w-6xl mx-auto">
         <p className="uppercase tracking-[0.3em] text-sm text-stone-500">
           Emma Furlong
@@ -21,7 +20,7 @@ export default function App() {
 
         <div className="mt-10 flex flex-wrap gap-4">
           <a
-            href="mailto:emmafurlonghome@gmail.com"
+            href="mailto:fflifestyle2024@gmail.com"
             className="rounded-full bg-black text-white px-6 py-3"
           >
             Work With Me
@@ -36,7 +35,6 @@ export default function App() {
         </div>
       </section>
 
-      {/* SERVICES */}
       <section
         id="services"
         className="max-w-6xl mx-auto px-6 py-10 grid md:grid-cols-3 gap-8"
@@ -66,7 +64,6 @@ export default function App() {
         </div>
       </section>
 
-      {/* ABOUT */}
       <section className="max-w-6xl mx-auto px-6 py-24">
         <div className="bg-white rounded-3xl p-12 shadow-sm">
           <p className="uppercase tracking-[0.3em] text-sm text-stone-500">
@@ -87,7 +84,6 @@ export default function App() {
         </div>
       </section>
 
-      {/* CONTACT */}
       <section className="max-w-6xl mx-auto px-6 pb-24">
         <div className="grid md:grid-cols-2 gap-8">
           <div className="bg-white rounded-3xl p-10 shadow-sm">
@@ -115,7 +111,7 @@ export default function App() {
               collaborations, get in touch below.
             </p>
             <a
-              href="mailto:emmafurlonghome@gmail.com"
+              href="mailto:fflifestyle2024@gmail.com"
               className="mt-8 inline-block rounded-full bg-white text-black px-6 py-3"
             >
               Email Me
@@ -124,11 +120,10 @@ export default function App() {
         </div>
       </section>
 
-      {/* FOOTER SOCIALS */}
       <footer className="border-t border-stone-200 py-8 px-6">
         <div className="max-w-6xl mx-auto flex flex-wrap gap-6 text-stone-600">
           <a
-            href="https:www.instagram.com/fflifestyle24"
+            href="https://www.instagram.com/fflifestyle24/"
             target="_blank"
             rel="noreferrer"
           >
